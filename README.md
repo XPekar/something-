@@ -1,2 +1,2 @@
-# somthing-
-just somthing.
+# somehing-
+just something.
